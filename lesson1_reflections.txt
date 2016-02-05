@@ -1,0 +1,11 @@
+Typing some crap here because I'm testing out version control.
+I was able to easily see differences in a file using a good diff tool.
+This makes it easier to find differences in your code between versions
+and track down where bugs may have been introduced into your code.
+Having access to previous history could help you look through and see
+the evolution of the code as it was developed. This could help you better
+understand the architecture of the system and how it was built up. This may
+also give you insight into limitqtions of the system or design decisions that
+may help you better understand how bugs got introduced or how to avoid bugs
+you may introduce.
+
